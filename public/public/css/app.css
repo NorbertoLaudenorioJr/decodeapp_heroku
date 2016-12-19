@@ -15,6 +15,18 @@ footer{
 .company{
   color: yellow;
 }
+body{
+  background:url(../img/background.jpg);
+  background-repeat: no-repeat;
+  background-size: 900px 550px;
+  background-attachment: fixed;
+  background-position: center center;
+}
+p {
+  font-weight: bold;
+  font-weight: 600;
+  font-weight: lighter;
+}
 
 /*
 
